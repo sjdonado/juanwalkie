@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JuanWalkie</string>
+    <string name="title_activity_public_room">Public room</string>
 </resources>
